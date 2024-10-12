@@ -1,0 +1,19 @@
+#name {
+  display: flex;
+  justify-content: center;
+}
+
+#profilePic {
+  display: flex;
+  justify-content: space-around;
+}
+
+#college {
+  display: flex;
+  justify-content: center;
+}
+
+#bio {
+  display: flex;
+  justify-content: center;
+}
